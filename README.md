@@ -1,3 +1,0 @@
-# face-js
-
-face mask
